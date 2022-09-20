@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>APNIC Blog</title>
+	<atom:link href="https://blog.apnic.net/feed/" rel="self" type="application/rss+xml" />
+	<link>https://blog.apnic.net/</link>
+	<description>Regional Internet Registry for the Asia Pacific</description>
+	<lastBuildDate>Tue, 06 Sep 2022 23:56:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">73396298</site>	<item>
+		<title>A second look at QUIC use</title>
+		<link>https://blog.apnic.net/2022/09/07/a-second-look-at-quic-use/</link>
+					<comments>https://blog.apnic.net/2022/09/07/a-second-look-at-quic-use/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff Huston]]></dc:creator>
+		<pubDate>Wed, 07 Sep 2022 00:00:41 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63536</guid>
+
+					<description><![CDATA[Getting QUIC measurement right.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/07/a-second-look-at-quic-use/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63536</post-id>	</item>
+		<item>
+		<title>APRICOT returns face-to-face in Manila</title>
+		<link>https://blog.apnic.net/2022/09/07/apricot-returns-face-to-face-in-manila/</link>
+					<comments>https://blog.apnic.net/2022/09/07/apricot-returns-face-to-face-in-manila/#respond</comments>
+		
+		<dc:creator><![CDATA[Tony Smith]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2022 23:56:43 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63629</guid>
+
+					<description><![CDATA[The usual rotation of APNIC and APRICOT conference locations is set to restart.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/07/apricot-returns-face-to-face-in-manila/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63629</post-id>	</item>
+		<item>
+		<title>Networking Wireless@SG</title>
+		<link>https://blog.apnic.net/2022/09/07/networking-wirelesssg/</link>
+					<comments>https://blog.apnic.net/2022/09/07/networking-wirelesssg/#respond</comments>
+		
+		<dc:creator><![CDATA[Dan Fidler]]></dc:creator>
+		<pubDate>Tue, 06 Sep 2022 22:30:39 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63352</guid>
+
+					<description><![CDATA[Wireless@SG has implemented several enhancements that focus on enhancing consumer experience and enterprise adoption.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/07/networking-wirelesssg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63352</post-id>	</item>
+		<item>
+		<title>The rise and rise of SGIX</title>
+		<link>https://blog.apnic.net/2022/09/06/the-rise-and-rise-of-sgix/</link>
+					<comments>https://blog.apnic.net/2022/09/06/the-rise-and-rise-of-sgix/#respond</comments>
+		
+		<dc:creator><![CDATA[Jeff Chan]]></dc:creator>
+		<pubDate>Mon, 05 Sep 2022 22:45:15 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62977</guid>
+
+					<description><![CDATA[Guest Post: Singapore’s national IX has been a success. What does the future hold?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/06/the-rise-and-rise-of-sgix/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62977</post-id>	</item>
+		<item>
+		<title>SGSeries: Singapore at a glance</title>
+		<link>https://blog.apnic.net/2022/09/05/sgseries-singapore-at-a-glance/</link>
+					<comments>https://blog.apnic.net/2022/09/05/sgseries-singapore-at-a-glance/#respond</comments>
+		
+		<dc:creator><![CDATA[Dan Fidler]]></dc:creator>
+		<pubDate>Mon, 05 Sep 2022 06:00:01 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63493</guid>
+
+					<description><![CDATA[Counting down to APNIC 54, we’re sharing the successes, challenges, and history of Internet operations in our host city.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/05/sgseries-singapore-at-a-glance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63493</post-id>	</item>
+		<item>
+		<title>Internet Edge IP SLA deep dive</title>
+		<link>https://blog.apnic.net/2022/09/05/internet-edge-ip-sla-deep-dive/</link>
+					<comments>https://blog.apnic.net/2022/09/05/internet-edge-ip-sla-deep-dive/#comments</comments>
+		
+		<dc:creator><![CDATA[Daniel Dib]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 22:50:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63199</guid>
+
+					<description><![CDATA[Guest Post: The Internet Protocol Service Level Agreement feature can help monitor the reliability of your ISP's service.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/05/internet-edge-ip-sla-deep-dive/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63199</post-id>	</item>
+		<item>
+		<title>Event Wrap: PacNOG 30</title>
+		<link>https://blog.apnic.net/2022/09/02/event-wrap-pacnog-30/</link>
+					<comments>https://blog.apnic.net/2022/09/02/event-wrap-pacnog-30/#respond</comments>
+		
+		<dc:creator><![CDATA[Bhadrika Magan]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2022 06:45:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63419</guid>
+
+					<description><![CDATA[APNIC actively participated in PacNOG 30, held in a hybrid format from 8 to 12 August 2022 in Suva, Fiji.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/02/event-wrap-pacnog-30/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63419</post-id>	</item>
+		<item>
+		<title>Four policy proposals up for community discussion at APNIC 54</title>
+		<link>https://blog.apnic.net/2022/09/02/four-policy-proposals-up-for-community-discussion-at-apnic-54/</link>
+					<comments>https://blog.apnic.net/2022/09/02/four-policy-proposals-up-for-community-discussion-at-apnic-54/#respond</comments>
+		
+		<dc:creator><![CDATA[Sunny Chendi]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2022 04:45:14 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/policy/">Policy</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63162</guid>
+
+					<description><![CDATA[Have your say on the policy proposals up for discussion at the APNIC 54 OPM.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/02/four-policy-proposals-up-for-community-discussion-at-apnic-54/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63162</post-id>	</item>
+		<item>
+		<title>DoH, DoT, and plain old DNS</title>
+		<link>https://blog.apnic.net/2022/09/02/doh-dot-and-plain-old-dns/</link>
+					<comments>https://blog.apnic.net/2022/09/02/doh-dot-and-plain-old-dns/#respond</comments>
+		
+		<dc:creator><![CDATA[Geoff Huston]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2022 23:05:25 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63435</guid>
+
+					<description><![CDATA[To what extent have these encrypted DNS technologies been taken up in the public Internet?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/02/doh-dot-and-plain-old-dns/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63435</post-id>	</item>
+		<item>
+		<title>Help secure global routing at APNIC 54</title>
+		<link>https://blog.apnic.net/2022/09/01/help-secure-global-routing-at-apnic-54/</link>
+					<comments>https://blog.apnic.net/2022/09/01/help-secure-global-routing-at-apnic-54/#respond</comments>
+		
+		<dc:creator><![CDATA[Di Ma]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2022 06:00:41 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/policy/">Policy</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62670</guid>
+
+					<description><![CDATA[Guest Post: Why you should get involved in the Routing Security SIG at APNIC 54, and what you can expect.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/01/help-secure-global-routing-at-apnic-54/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62670</post-id>	</item>
+		<item>
+		<title>Online voting for the NRO NC election 2022 opens today</title>
+		<link>https://blog.apnic.net/2022/09/01/online-voting-for-the-nro-nc-election-2022-opens-today/</link>
+					<comments>https://blog.apnic.net/2022/09/01/online-voting-for-the-nro-nc-election-2022-opens-today/#comments</comments>
+		
+		<dc:creator><![CDATA[Bhadrika Magan]]></dc:creator>
+		<pubDate>Thu, 01 Sep 2022 04:05:41 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63284</guid>
+
+					<description><![CDATA[Submit your online vote for the NRO NC election. Voting closes on 15 September.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/01/online-voting-for-the-nro-nc-election-2022-opens-today/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63284</post-id>	</item>
+		<item>
+		<title>Measuring hyper-specific prefixes in the wild</title>
+		<link>https://blog.apnic.net/2022/09/01/measuring-hyper-specific-prefixes-in-the-wild/</link>
+					<comments>https://blog.apnic.net/2022/09/01/measuring-hyper-specific-prefixes-in-the-wild/#comments</comments>
+		
+		<dc:creator><![CDATA[Khwaja Zubair Sediqi]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 22:45:51 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62948</guid>
+
+					<description><![CDATA[Guest Post: How prevalent are hyper-specific prefixes and what should be done about them?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/01/measuring-hyper-specific-prefixes-in-the-wild/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62948</post-id>	</item>
+		<item>
+		<title>[Podcast] Rethinking how we measure video performance</title>
+		<link>https://blog.apnic.net/2022/09/01/podcast-rethinking-how-we-measure-video-performance/</link>
+					<comments>https://blog.apnic.net/2022/09/01/podcast-rethinking-how-we-measure-video-performance/#respond</comments>
+		
+		<dc:creator><![CDATA[Robbie Mitchell]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 20:15:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63322</guid>
+
+					<description><![CDATA[How we measure video streaming experience can shed light on how we observe, and develop, the Internet.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/09/01/podcast-rethinking-how-we-measure-video-performance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63322</post-id>	</item>
+		<item>
+		<title>Get involved at APrIGF 2022</title>
+		<link>https://blog.apnic.net/2022/08/31/get-involved-at-aprigf-2022/</link>
+					<comments>https://blog.apnic.net/2022/08/31/get-involved-at-aprigf-2022/#comments</comments>
+		
+		<dc:creator><![CDATA[Amrita Choudhury]]></dc:creator>
+		<pubDate>Wed, 31 Aug 2022 01:45:21 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/development/">Development</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63343</guid>
+
+					<description><![CDATA[Guest Post: Envisioning a community-led Internet that is inclusive, sustainable, and trusted.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/31/get-involved-at-aprigf-2022/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63343</post-id>	</item>
+		<item>
+		<title>The DNS and Internet fragmentation</title>
+		<link>https://blog.apnic.net/2022/08/31/the-dns-and-internet-fragmentation/</link>
+					<comments>https://blog.apnic.net/2022/08/31/the-dns-and-internet-fragmentation/#respond</comments>
+		
+		<dc:creator><![CDATA[Vittorio Bertola]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 23:02:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62628</guid>
+
+					<description><![CDATA[Guest Post: Unfortunately for the entire DNS industry, DNS resolution offers a good (or the least bad) control point for the enforcement of national regulation.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/31/the-dns-and-internet-fragmentation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62628</post-id>	</item>
+		<item>
+		<title>Boost cooperation between technical and non-technical disciplines at APNIC 54</title>
+		<link>https://blog.apnic.net/2022/08/30/boost-cooperation-between-technical-and-non-technical-disciplines-at-apnic-54/</link>
+					<comments>https://blog.apnic.net/2022/08/30/boost-cooperation-between-technical-and-non-technical-disciplines-at-apnic-54/#respond</comments>
+		
+		<dc:creator><![CDATA[Joy Chan]]></dc:creator>
+		<pubDate>Tue, 30 Aug 2022 06:05:02 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62749</guid>
+
+					<description><![CDATA[Guest Post: Why you should get involved in the Cooperation SIG at APNIC 54, and what you can expect.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/30/boost-cooperation-between-technical-and-non-technical-disciplines-at-apnic-54/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62749</post-id>	</item>
+		<item>
+		<title>It’s time to reconsider selective FEC with high-priority resources in HTTP/3</title>
+		<link>https://blog.apnic.net/2022/08/30/its-time-to-reconsider-selective-fec-with-high-priority-resources-in-http-3/</link>
+					<comments>https://blog.apnic.net/2022/08/30/its-time-to-reconsider-selective-fec-with-high-priority-resources-in-http-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Nooshin Eghbal]]></dc:creator>
+		<pubDate>Mon, 29 Aug 2022 22:20:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62637</guid>
+
+					<description><![CDATA[Guest Post: Forward Error Correction can reduce the need for retransmission times in QUIC by >100 ms.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/30/its-time-to-reconsider-selective-fec-with-high-priority-resources-in-http-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62637</post-id>	</item>
+		<item>
+		<title>IPv6 celebrates its 5th anniversary as an Internet Standard</title>
+		<link>https://blog.apnic.net/2022/08/29/ipv6-celebrates-its-5th-anniversary-as-an-internet-standard/</link>
+					<comments>https://blog.apnic.net/2022/08/29/ipv6-celebrates-its-5th-anniversary-as-an-internet-standard/#respond</comments>
+		
+		<dc:creator><![CDATA[Frank Herberg]]></dc:creator>
+		<pubDate>Sun, 28 Aug 2022 23:00:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62633</guid>
+
+					<description><![CDATA[Guest Post: Five years ago, the IETF declared the ‘new’ Internet Protocol IPv6 in RFC 8200.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/29/ipv6-celebrates-its-5th-anniversary-as-an-internet-standard/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62633</post-id>	</item>
+		<item>
+		<title>Event Wrap: DNS-OARC 38</title>
+		<link>https://blog.apnic.net/2022/08/26/event-wrap-dns-oarc-38/</link>
+					<comments>https://blog.apnic.net/2022/08/26/event-wrap-dns-oarc-38/#respond</comments>
+		
+		<dc:creator><![CDATA[Bhadrika Magan]]></dc:creator>
+		<pubDate>Fri, 26 Aug 2022 05:30:09 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63239</guid>
+
+					<description><![CDATA[Geoff Huston presented on the resolvers we use at DNS-OARC 38, held in Philadelphia, USA from 30 to 31 July 2022.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/26/event-wrap-dns-oarc-38/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63239</post-id>	</item>
+		<item>
+		<title>Tackling DNS abuse through education, collaboration and innovation</title>
+		<link>https://blog.apnic.net/2022/08/26/tackling-dns-abuse-through-education-collaboration-and-innovation/</link>
+					<comments>https://blog.apnic.net/2022/08/26/tackling-dns-abuse-through-education-collaboration-and-innovation/#comments</comments>
+		
+		<dc:creator><![CDATA[Rowena Schoo]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 23:05:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62492</guid>
+
+					<description><![CDATA[Guest Post: The DNS Abuse Institute seeks to tackle the complex global issue of DNS abuse and make the Internet safer.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/26/tackling-dns-abuse-through-education-collaboration-and-innovation/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62492</post-id>	</item>
+		<item>
+		<title>Stay informed about resource allocations and more at APNIC 54</title>
+		<link>https://blog.apnic.net/2022/08/25/stay-informed-about-resource-allocations-and-more-at-apnic-54/</link>
+					<comments>https://blog.apnic.net/2022/08/25/stay-informed-about-resource-allocations-and-more-at-apnic-54/#respond</comments>
+		
+		<dc:creator><![CDATA[Oanh Nguyen]]></dc:creator>
+		<pubDate>Thu, 25 Aug 2022 04:00:19 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62870</guid>
+
+					<description><![CDATA[Guest Post: Why you should attend the NIR SIG and what you can expect.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/25/stay-informed-about-resource-allocations-and-more-at-apnic-54/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62870</post-id>	</item>
+		<item>
+		<title>The state of IPv6 ten years after World IPv6 Launch</title>
+		<link>https://blog.apnic.net/2022/08/25/the-state-of-ipv6-ten-years-after-world-ipv6-launch/</link>
+					<comments>https://blog.apnic.net/2022/08/25/the-state-of-ipv6-ten-years-after-world-ipv6-launch/#respond</comments>
+		
+		<dc:creator><![CDATA[John Jason Brzozowski]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 22:40:09 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62856</guid>
+
+					<description><![CDATA[Guest Post: 2012 was a turning point for the IPv6 Internet. What lies ahead?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/25/the-state-of-ipv6-ten-years-after-world-ipv6-launch/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62856</post-id>	</item>
+		<item>
+		<title>Event Wrap: IDNOG 7</title>
+		<link>https://blog.apnic.net/2022/08/25/event-wrap-idnog-7/</link>
+					<comments>https://blog.apnic.net/2022/08/25/event-wrap-idnog-7/#respond</comments>
+		
+		<dc:creator><![CDATA[Bhadrika Magan]]></dc:creator>
+		<pubDate>Wed, 24 Aug 2022 22:38:36 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/development/">Development</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=63081</guid>
+
+					<description><![CDATA[Wita Laksono gave an update on IPv6, RPKI, and NMM features in APNIC Information Products at IDNOG 7, held from 25 to 28 July in Jakarta, Indonesia.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/25/event-wrap-idnog-7/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">63081</post-id>	</item>
+		<item>
+		<title>Semantic Networking discussions at the IETF</title>
+		<link>https://blog.apnic.net/2022/08/24/semantic-networking-discussions-at-the-ietf/</link>
+					<comments>https://blog.apnic.net/2022/08/24/semantic-networking-discussions-at-the-ietf/#respond</comments>
+		
+		<dc:creator><![CDATA[Adrian Farrel]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 22:38:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62792</guid>
+
+					<description><![CDATA[Guest Post: Discussing contentious topics like Semantic Routing helps with understanding the broader challenges of the Internet ecosystem.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/24/semantic-networking-discussions-at-the-ietf/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62792</post-id>	</item>
+		<item>
+		<title>Affect real change at the APNIC 54 OPM</title>
+		<link>https://blog.apnic.net/2022/08/23/affect-real-change-at-the-apnic-54-opm/</link>
+					<comments>https://blog.apnic.net/2022/08/23/affect-real-change-at-the-apnic-54-opm/#respond</comments>
+		
+		<dc:creator><![CDATA[Ching-Heng Ku]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 06:00:31 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/policy/">Policy</a>]]></category><category><![CDATA[<a href="https://blog.apnic.net/category/events/">Events</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62689</guid>
+
+					<description><![CDATA[Guest Post: Why you should get involved at APNIC 54 Policy SIG OPM, and what you can expect.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/23/affect-real-change-at-the-apnic-54-opm/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62689</post-id>	</item>
+		<item>
+		<title>Analyzing MPTCP adoption in the Internet</title>
+		<link>https://blog.apnic.net/2022/08/23/analyzing-mptcp-adoption-in-the-internet/</link>
+					<comments>https://blog.apnic.net/2022/08/23/analyzing-mptcp-adoption-in-the-internet/#comments</comments>
+		
+		<dc:creator><![CDATA[Tanya Shreedhar]]></dc:creator>
+		<pubDate>Mon, 22 Aug 2022 22:45:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62503</guid>
+
+					<description><![CDATA[Guest Post: Almost non-existent until October 2021, MPTCP deployment now spans more than 80 economies.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/23/analyzing-mptcp-adoption-in-the-internet/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62503</post-id>	</item>
+		<item>
+		<title>DNSSEC validation: Performance killer?</title>
+		<link>https://blog.apnic.net/2022/08/22/dnssec-validation-performance-killer/</link>
+					<comments>https://blog.apnic.net/2022/08/22/dnssec-validation-performance-killer/#respond</comments>
+		
+		<dc:creator><![CDATA[Petr Špaček]]></dc:creator>
+		<pubDate>Sun, 21 Aug 2022 22:32:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62705</guid>
+
+					<description><![CDATA[Guest Post: Are computer resources handicapped by DNSSEC validation?]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/22/dnssec-validation-performance-killer/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62705</post-id>	</item>
+		<item>
+		<title>UDP-based amplification — the dangerous DDoS attack vector</title>
+		<link>https://blog.apnic.net/2022/08/19/udp-based-amplification-the-dangerous-ddos-attack-vector/</link>
+					<comments>https://blog.apnic.net/2022/08/19/udp-based-amplification-the-dangerous-ddos-attack-vector/#comments</comments>
+		
+		<dc:creator><![CDATA[Debashis Pal]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2022 23:26:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62599</guid>
+
+					<description><![CDATA[Guest Post: Learn how to save time and money by protecting against UDP flood DoS attacks.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/19/udp-based-amplification-the-dangerous-ddos-attack-vector/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62599</post-id>	</item>
+		<item>
+		<title>One in eight DNS A queries, two in three AAAA fail in the wild</title>
+		<link>https://blog.apnic.net/2022/08/18/one-in-eight-dns-a-queries-two-in-three-aaaa-fail-in-the-wild/</link>
+					<comments>https://blog.apnic.net/2022/08/18/one-in-eight-dns-a-queries-two-in-three-aaaa-fail-in-the-wild/#respond</comments>
+		
+		<dc:creator><![CDATA[Zhenyu Li]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 22:30:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/tech-matters/">Tech matters</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62460</guid>
+
+					<description><![CDATA[Guest Post: Around 20% of resolvers almost never succeed in resolving AAAA queries.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/18/one-in-eight-dns-a-queries-two-in-three-aaaa-fail-in-the-wild/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62460</post-id>	</item>
+		<item>
+		<title>[Podcast] DNS spoofing is a non-issue if we all do DNSSEC</title>
+		<link>https://blog.apnic.net/2022/08/18/podcast-dns-spoofing-is-a-non-issue-if-we-all-do-dnssec/</link>
+					<comments>https://blog.apnic.net/2022/08/18/podcast-dns-spoofing-is-a-non-issue-if-we-all-do-dnssec/#respond</comments>
+		
+		<dc:creator><![CDATA[Robbie Mitchell]]></dc:creator>
+		<pubDate>Wed, 17 Aug 2022 21:15:00 +0000</pubDate>
+		<category><![CDATA[<a href="https://blog.apnic.net/category/community/">Community</a>]]></category>		<guid isPermaLink="false">https://blog.apnic.net/?p=62805</guid>
+
+					<description><![CDATA[DNS spoofing is a growing problem that can be stopped with a range of countermeasures or just DNSSEC.]]></description>
+		
+					<wfw:commentRss>https://blog.apnic.net/2022/08/18/podcast-dns-spoofing-is-a-non-issue-if-we-all-do-dnssec/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">62805</post-id>	</item>
+	</channel>
+</rss>
